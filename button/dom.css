@@ -1,0 +1,29 @@
+.toggle
+{
+    background-color: black;
+    width: 155px;
+    height: 55px;
+    border-radius: 30px;
+    margin: 20px;
+    position: relative;
+}
+.toggle .btn
+{
+    height: 100%;
+    width: 50%;
+    left: 0px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    background-color: rgb(155, 241, 26);
+}
+.toggle .btn1
+{
+    height: 100%;
+    width: 50%;
+    right: 0px;
+    border-radius: 100px;
+    border: none;
+    position: absolute;
+    background-color: rgb(155, 241, 26);
+}
